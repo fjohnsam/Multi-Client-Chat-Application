@@ -1,9 +1,4 @@
-/*
-  Assignment 3
-  Roll No : 19CS60R53
-  Febin John Sam
-  client.c
-*/
+#Copyright :Febin John Sam (fjohnsam96@gmail.com)
 
 #include<stdio.h>
 #include<stdlib.h>
